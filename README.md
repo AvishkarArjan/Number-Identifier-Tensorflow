@@ -1,6 +1,6 @@
 # Number-Identifier-Tensorflow
 
-A Python (Jupyter) program , implementing a Neural Network using Tensorflow , to predict numbers from 0-9 based on a Dataset of Handwritten Number images. 
+A Python (Jupyter) program , implementing a Neural Network using Tensorflow , to predict numbers from 0-9 based on a Dataset of Handwritten Number images. Simple, but awesome.
 ## Technologies/ Frameworks/ Libraries used
 
  - [Tensorflow](https://www.tensorflow.org/)
